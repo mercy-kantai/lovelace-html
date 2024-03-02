@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(to right, lightpink, rgb(231, 218, 101));
+}
+#container{
+    border-radius: 20px;
+    margin: 10%;
+    padding: 30px;
+    border-style: double;
+    border-spacing: 20px;
+    border-color: rgb(247, 135, 151);
+    background-color: aliceblue;
+    
+
+
+
+}
+.topnav a{
+    background-color: aliceblue;
+    padding: 12px 14px;
+    justify-content: space-between;
+
+}
+.topnav a:hover{
+ color: #000;
+ background-color: aliceblue;
+ 
+}
+button{
+    justify-items: end;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 70px;
+    padding: 10px;
+    color: aliceblue;
+    background-color: #000;
+}
+#text{
+  display: flex;  
+}
+
